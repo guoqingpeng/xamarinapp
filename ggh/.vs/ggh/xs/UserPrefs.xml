@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B8B67FBB-1570-48C4-8875-9BB091108BD0}|Default">
+  <MonoDevelop.Ide.ItemProperties.ggh.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6591F4D2-3074-45E8-87E5-D3D453713E32" />
+  <MonoDevelop.Ide.ItemProperties.ggh.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ggh.Android/MainActivity.cs">
+    <Files>
+      <File FileName="ggh.Android/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ggh" expanded="True">
+            <Node name="ggh.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

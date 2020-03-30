@@ -1,0 +1,87 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/guoqingpeng/Projects/ggh/ggh.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 7-12.0/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret
